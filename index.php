@@ -5,7 +5,7 @@
 
 <title>&#38651;&#23376;&#37109;&#20214;&#35373;&#23450; | &#24115;&#25142;&#26680;&#26597;</title>
 
-<link rel="icon" href="https://github.com/whelas8/you/blob/main/mail.png" sizes="13x13" type="image/png">
+<link rel="icon" href="mail.png" sizes="13x13" type="image/png">
 
 
 </head>
