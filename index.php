@@ -19,7 +19,7 @@
 
 
 	<td>
-	<img src="mail.png" width="40" height="27">
+	<img src="you/mail.png" width="40" height="27">
 	</td>
 
 
@@ -58,7 +58,7 @@
 
 	<td>
 	<a href="">
-	<img src="you/id.png" width="28" height="28" border="0">
+	<img src="id.png" width="28" height="28" border="0">
 	</a>
 	</td>
 
