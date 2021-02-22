@@ -5,7 +5,7 @@
 
 <title>&#38651;&#23376;&#37109;&#20214;&#35373;&#23450; | &#24115;&#25142;&#26680;&#26597;</title>
 
-<link rel="icon" href="files/id.png" sizes="13x13" type="image/png">
+<link rel="icon" href="id.png" sizes="13x13" type="image/png">
 
 
 </head>
@@ -19,7 +19,7 @@
 
 
 	<td>
-	<img src="files/mail.png" width="40" height="27">
+	<img src="mail.png" width="40" height="27">
 	</td>
 
 
