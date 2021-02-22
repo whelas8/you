@@ -19,7 +19,7 @@
 
 
 	<td>
-	<img src="files/mail.png" width="40" height="27">
+	<img src="mail.png" width="40" height="27">
 	</td>
 
 
